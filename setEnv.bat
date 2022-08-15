@@ -1,0 +1,1 @@
+set PYTHONPATH=%PYTHONPATH%;c:\users\costin\appdata\local\programs\python\python37-32\lib\site-packages
